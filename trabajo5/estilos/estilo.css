@@ -1,0 +1,43 @@
+.encabezados{
+    text-align: center;
+    font-size: large;
+}
+
+#otraLetra{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:xx-small;
+    text-align:justify;
+    color: blueviolet;
+    
+}
+
+.body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+
+.contenido1{
+    height: auto;
+    width: auto;
+    border: 4px gray solid;
+    padding: 5px;
+    margin-bottom: 60px;
+    
+}
+
+.contenido2{
+    height: auto;
+    width: auto;
+    border: 0.5cm;
+    border-style:dashed;
+    padding:5em;
+    margin: 5rem;
+}
+
+.contenido3{
+    padding: 1.5px;
+    border: solid lightblue 1.5px;
+    margin-right: 60px;
+}
+
